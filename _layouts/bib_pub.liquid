@@ -1,0 +1,56 @@
+---
+---
+
+
+<div class="grid-sizer col-lg-12 isotope-item pubtype-4"  >
+
+
+
+    <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+
+
+        {% if entry.refs %}
+        <div class="article-title">
+            {{ entry.refs }}
+        </div>
+        {% endif %}
+
+        <div>
+            <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+            <!-- Author start-->
+            {% if entry.authors_text %}
+                {% comment %}{% if entry.link %}<a  href="{{ entry.link }}" target="_blank">{% endif %}{% endcomment %}
+                <span class="article-authors"> {{ entry.authors_text | markdownify | remove: "<p>"  | remove: "</p>" }}, </span>
+                {% comment %}{% if entry.link %}</a>{% endif %}{% endcomment %}
+            {% endif %}
+            <!-- Author end-->
+
+            {% comment %}{% if entry.year %}({{ entry.year }}).{% endif %}{% endcomment %}
+
+
+            {% comment %}<span class="article-title"> {{ entry.title }}. </span>{% endcomment %}
+            <span class="article-title">
+                {% if entry.link %}<a style="color: var(--global-text-color)" href="{{ entry.link }}" target="_blank">{% endif %}
+                        {{ entry.title }}
+                {% if entry.link %}</a>{% endif %}.
+            </span>
+            {% if entry.place %}
+                <span> {{ entry.place }}. </span>
+            {% endif %}
+
+
+            {% if entry.pdf %}
+                <p>
+                    <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ entry.pdf }}" target="_blank" rel="noopener">
+                        PDF
+                    </a>
+                </p>
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</div>
+
