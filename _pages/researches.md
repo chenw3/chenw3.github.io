@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /researches/
-description: Chen Wang is an Assitant Professor in Institute for Advanced Study at the Shenzhen University. Dr. Wang's current research focuses on developing and implementing first-principles-based methods and machine-learning approaches to simulate the dynamics of phonons and electrons at the atomic level and their application to thermal management. Research topics include heat transport phenomena, anharmonic lattice dynamics, and structural phase transition for energy-converting materials, covering perovskites, thermoelectrics, and superionic conductors.
+description: Dr. Wang's current research focuses on developing and implementing first-principles-based methods and machine-learning approaches to simulate the dynamics of phonons and electrons at the atomic level and their application to thermal management. Research topics include heat transport phenomena, anharmonic lattice dynamics, and structural phase transition for energy-converting materials, covering perovskites, thermoelectrics, and superionic conductors.
 nav: true
 nav_order: 5
 # display_categories: []
