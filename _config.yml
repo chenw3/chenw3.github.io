@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Chen
+first_name: Wang
 middle_name:
-last_name: Wang
+last_name: Chen
 email: chenw33@connect.hku.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chen Wang (王晨)'s Webpage
