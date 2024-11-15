@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
-<div class="publications", align="justify">>
+<div class="publications" >>
 
 {% bibliography --template bib_pub %}
 
