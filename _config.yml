@@ -319,7 +319,7 @@ scholar:
   last_name: [Wang]
   first_name: [Chen]
 
-  style: unsrt
+  style: apa
   locale: en
 
   source: /_bibliography/
