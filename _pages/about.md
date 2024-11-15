@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<div align="justify"> WANG Chen (王晨) is an Assitant Professor in Institute for Advanced Study at the Shenzhen University (SZU). Before joining SZU, he was a Postdoctoral Fellow at the University of Hong Kong (HKU). Dr. Wang obtained his B.E. degree from China University of Petroleum-Beijing (CUPB) in 2015 and his M.S. degree from Carnegie Mellon University (CMU) in 2017, both in Chemical Engineering. He obtained his Ph.D. degree (2021) in Mechanical Engineering from HKU under the supervision of Prof. Yue Chen.  </div>
+<div align="justify"> WANG Chen (王晨) is an Assitant Professor in Institute for Advanced Study at the Shenzhen University (SZU). Before joining SZU, he was a Postdoctoral Fellow at the University of Hong Kong (HKU). Dr. Wang obtained his B.E. degree from China University of Petroleum-Beijing (CUPB) in 2015 and his M.S. degree from Carnegie Mellon University (CMU) in 2017, both in Chemical Engineering. He obtained his Ph.D. degree (2021) in Mechanical Engineering from HKU under the supervision of Prof. Yue Chen. </div>
 
 
 &nbsp;
