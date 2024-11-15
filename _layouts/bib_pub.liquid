@@ -1,27 +1,27 @@
 ---
 ---
-
-
 <div class="grid-sizer col-lg-12 isotope-item pubtype-4"  >
 
 
-
+    {% comment %}$\mathrm{AgCrSe}_2${% endcomment %}
     <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 
 
-        {% if entry.refs %}
+        {% comment %}{% if entry.refs %}
         <div class="article-title">
             {{ entry.refs }}
         </div>
-        {% endif %}
+        {% endif %}{% endcomment %}
 
         <div>
+
+
             <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
             <!-- Author start-->
-            {% if entry.authors_text %}
+            {% if entry.author %}
                 {% comment %}{% if entry.link %}<a  href="{{ entry.link }}" target="_blank">{% endif %}{% endcomment %}
-                <span class="article-authors"> {{ entry.authors_text | markdownify | remove: "<p>"  | remove: "</p>" }}, </span>
+                <span class="article-authors"> {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}, </span>
                 {% comment %}{% if entry.link %}</a>{% endif %}{% endcomment %}
             {% endif %}
             <!-- Author end-->
@@ -32,11 +32,12 @@
             {% comment %}<span class="article-title"> {{ entry.title }}. </span>{% endcomment %}
             <span class="article-title">
                 {% if entry.link %}<a style="color: var(--global-text-color)" href="{{ entry.link }}" target="_blank">{% endif %}
-                        {{ entry.title }}
-                {% if entry.link %}</a>{% endif %}.
+                      {{ entry.title  | markdownify  | remove: "<p>"  | remove: "</p>" }}
+                {% if entry.link %}</a>{% endif %},
             </span>
-            {% if entry.place %}
-                <span> {{ entry.place }}. </span>
+
+            {% if entry.journal %}
+                <span> {{ entry.journal }}, {{ entry.number }} ({{ entry.year }}) {{ entry.volume }}. </span>
             {% endif %}
 
 
