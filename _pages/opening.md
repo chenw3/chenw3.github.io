@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opening
+title: Openings
 permalink: /opening/
 description:
 nav: true
