@@ -319,7 +319,7 @@ scholar:
   last_name: [Einstein]
   first_name: [Albert, A.]
 
-  style: unsrt
+  style: american-physical-society-et-al
   locale: en
 
   source: /_bibliography/
