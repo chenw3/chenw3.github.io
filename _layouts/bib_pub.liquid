@@ -19,9 +19,10 @@
             <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
             <!-- Author start-->
-            {% if entry.author %}
+            {% if entry.author_text %}
                 {% comment %}{% if entry.link %}<a  href="{{ entry.link }}" target="_blank">{% endif %}{% endcomment %}
-                <span class="article-authors"> {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}, </span>
+                {% comment %}<span class="article-authors"> {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}, </span>{% endcomment %}
+                <span class="article-authors"> {{ entry.author_text }}, </span>
                 {% comment %}{% if entry.link %}</a>{% endif %}{% endcomment %}
             {% endif %}
             <!-- Author end-->
