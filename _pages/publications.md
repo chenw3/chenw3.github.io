@@ -4,7 +4,7 @@ align: justify
 permalink: /publications/
 title: Publications
 inline: true
-description: "Full publications: [Google Scholar](https://scholar.google.com/citations?user=Fi6WlW0AAAAJ&hl=en)."
+description: "<a href="https://scholar.google.com/citations?user=Fi6WlW0AAAAJ&hl=en"> Full publications: [Google Scholar] </a>"
 nav: true
 nav_order: 1
 ---
