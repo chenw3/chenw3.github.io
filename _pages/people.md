@@ -17,7 +17,7 @@ page_id: people
     <div class="t-grid-item tgi1"><img class="t-grid-item-img"  src="/assets/img/profile.jpg" /></div>
     <div class="t-grid-item tgi2">
         <div class="p-name">Chen Wang (王晨)</div>
-        <div>Assitant Professor</div>
+        <div>Assistant Professor</div>
         <div>PDF, Mechanical Engineering, The University of Hong Kong (2024)</div>
         <div>Ph.D., Mechanical Engineering, The University of Hong Kong (2021)</div>
         <div>M.S., Chemical Engineering, Carnegie Mellon University (2017)</div>
