@@ -1,19 +1,16 @@
 ---
 layout: page
-title: "High-Pressure Physics"
+title: "Thermal and Phonon transport"
 description:  
-img: assets/img/researches/r3_1.jpg
+img: assets/img/researches/Figure1.jpg
 importance: 10
 category: work
 related_publications: false
 ---
 
 
-Experimental determination of the crystal structures of materials becomes difficult under extremely high pressure. Fortunately, recent developments in the methods for theoretical predictions of crystal structures provide an effective way in search of novel high-pressure phases. A number of successful applications of these methods which include the ab initio random structure searching and evolutionary approaches have been reported recently. The successful applications of the structure searching approaches show their capabilities of predicting complex configurations given only the compositions of the system.
+With the miniaturization of integrated circuits, highly dense electronic components inevitably generate substantial Joule heat during high-speed operation, leading to demanding requirements for efficient heat dissipation. Therefore, effective thermal management plays a pivotal role in further developing the semiconductor industry and provides a solid impetus to better understand phonon heat conduction mechanisms at the micro-nano scale.
 
-
-
-A large number of elements and compounds undergo superconducting transitions under pressure, in particular, the critical temperatures Tc may increase with hydrostatic pressures. Therefore, the predictions of the crystal structures of high-pressure phases become invaluable in searching for high Tc superconductors.
-
+During the academic study and work at Carnegie Mellon University and the University of Hong Kong, Dr. Wang has been extensively engaged in the development and utilization of first-principles and machine-learning computational methods to microscopically elucidate phonon scattering and transport mechanisms, particularly in fields closely related to high-order anharmonic phonon behaviors, such as thermal transport, lattice dynamics, and structural phase transitions.
  
 
