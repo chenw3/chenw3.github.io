@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Current Research"
+title: "Current Research Directions"
 description:  
 img: assets/img/researches/Figure1.png
 importance: 10
