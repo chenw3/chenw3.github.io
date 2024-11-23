@@ -41,12 +41,6 @@
                 <span> {{ entry.journal }}, {{ entry.number }} ({{ entry.year }}) {{ entry.volume }}. </span>
             {% endif %}
 
-
-
-            {% if entry.hidden_url %}
-            <a href="{{ entry.hidden_url }}">{{reference}}</a>
-            {% else %} {{reference}} {% endif %}
-
             {% if entry.pdf %}
                 <p>
                     <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ entry.pdf }}" target="_blank" rel="noopener">
