@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Future research directions"
+title: "Future Research Directions"
 description:  
 img: assets/img/researches/Figure2.png
 importance: 11
