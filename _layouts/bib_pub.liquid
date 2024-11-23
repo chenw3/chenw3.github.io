@@ -29,7 +29,7 @@
 
             {% comment %}{% if entry.year %}({{ entry.year }}).{% endif %}{% endcomment %}
 
-
+            
             {% comment %}<span class="article-title"> {{ entry.title }}. </span>{% endcomment %}
             <span class="article-title">
                 {% if entry.link %}<a style="color: var(--global-text-color)" href="{{ entry.link }}" target="_blank">{% endif %}
@@ -41,6 +41,11 @@
                 <span> {{ entry.journal }}, {{ entry.number }} ({{ entry.year }}) {{ entry.volume }}. </span>
             {% endif %}
 
+
+
+            {% if entry.hidden_url %}
+            <a href="{{ entry.hidden_url }}">{{reference}}</a>
+            {% else %} {{reference}} {% endif %}
 
             {% if entry.pdf %}
                 <p>
