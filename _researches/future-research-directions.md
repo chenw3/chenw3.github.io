@@ -3,7 +3,7 @@ layout: page
 title: "Future research directions"
 description:  
 img: assets/img/researches/Figure2.png
-importance: 9
+importance: 11
 category: work
 related_publications: false
 ---
