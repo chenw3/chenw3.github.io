@@ -10,11 +10,11 @@ horizontal: false
 
 page_id: opening
 ---
+## Undergraduate Studentship
+To be announced.
 
 ## Master Studentship
 To be announced.
-
-
 
 ## Postdoctoral Fellowship
 To be announced.
