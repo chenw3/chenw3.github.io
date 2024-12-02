@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Dec 09, 2024, Joined the Institute for Advanced Study (IAS), [Shenzhen University](https://ias.szu.edu.cn/en/People/Faculty.htm) as an Assistant Professor. 
+Joined the Institute for Advanced Study (IAS), [Shenzhen University](https://ias.szu.edu.cn/en/People/Faculty.htm) as an Assistant Professor. 
 
