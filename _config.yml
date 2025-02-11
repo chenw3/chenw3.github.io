@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: WANG
 middle_name:
 last_name: Chen Group @ SZU
-email: chenw33@connect.hku.hk
+email: chenw33@szu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chen Wang (王晨)'s Webpage
 footer_text: >
