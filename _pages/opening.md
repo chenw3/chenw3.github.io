@@ -20,4 +20,4 @@ We invite applications from Master's candidates possessing foundational knowledg
 (3) Solid-solid phase transition
 
 ## Postdoctoral Fellowship
-Postdoctoral candidates with relevant expertise are invited to submit inquiries to Dr. Wang, including a CV, as one position is currently available.
+Postdoctoral candidates with relevant expertise are invited to submit inquiries to Dr. Wang, including a CV, as two positions are currently available.
