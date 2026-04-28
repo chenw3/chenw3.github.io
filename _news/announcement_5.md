@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New grand on “Guangdong Pearl River Talent Plan” awarded by Shenzhen Science and Technology Innovation Bureau.
+New grand on “Young Top‑notch Talent“ under the Guangdong Pearl River Talent Plan awarded by Shenzhen Science and Technology Innovation Bureau.
