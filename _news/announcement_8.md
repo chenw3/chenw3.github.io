@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New grand on "Thermal Conductivity Prediction and Aerospace Thermal Protection Material Screening Based on the Wigner Transport Equation and Graph Attention Network” awarded by the Shenzhen Municipal Science and Technology Program (General Project).
+New grand on "Thermal Conductivity Prediction and Aerospace Thermal Protection Material Screening Based on the Wigner Transport Equation and Graph Attention Network (General Project)" awarded by the Shenzhen Science and Technology Innovation Bureau.
